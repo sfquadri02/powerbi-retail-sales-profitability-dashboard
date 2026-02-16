@@ -8,17 +8,17 @@ Interactive Power BI dashboard analyzing retail sales performance, profitability
 
 ## Dashboard Structure
 
-# Executive Overview
+## Executive Overview
 Provides a high-level snapshot of overall business performance.
 
-# Key KPIs:
+### Key KPIs:
 
 - Total Sales: $2.30M
 - Total Profit: $286K
 - Profit Margin: 12.47%
 - YoY Growth: 46.88%
 
-# Business Insights:
+### Business Insights:
 
 - Technology is the leading revenue contributor.
 - Consumer segment drives majority of total sales.
