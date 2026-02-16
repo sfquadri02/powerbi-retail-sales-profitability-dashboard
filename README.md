@@ -70,38 +70,23 @@ This page evaluates performance sustainability and trend behavior using advanced
 - Star schema approach
 - Dedicated Date Table
 - Proper relationships for time intelligence
-## DAX Measures Created
+  
+### DAX Measures Created
+- Total Sales
+- Total Profit
+- Profit Margin %
+- Sales LY
+- YoY Growth %
+- Sales YTD
+- Sales MTD
+- Loss Orders
+- Average Profit per Order
 
-Total Sales
-
-Total Profit
-
-Profit Margin %
-
-Sales LY
-
-YoY Growth %
-
-Sales YTD
-
-Sales MTD
-
-Loss Orders
-
-Average Profit per Order
-
-Advanced Techniques
-
-SAMEPERIODLASTYEAR
-
-TOTALYTD
-
-TOTALMTD
-
-Conditional Formatting
-
-Dynamic Slicers
-
-Navigation Buttons
-
-Executive Storytelling Layout
+### Advanced Techniques
+- SAMEPERIODLASTYEAR
+- TOTALYTD
+- TOTALMTD
+- Conditional Formatting
+- Dynamic Slicers
+- Navigation Buttons
+- Executive Storytelling Layout
