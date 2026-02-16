@@ -6,9 +6,7 @@ Interactive Power BI dashboard analyzing retail sales performance, profitability
 - The objective is to transform raw retail transactional data into actionable business insights through advanced DAX, time intelligence, and structured storytelling.
 - The dashboard is designed for executive-level reporting and analytical deep-dives into profitability and growth performance.
 
-## Dashboard Structure
-
-## Executive Overview
+## Dashboard Structure - Executive Overview
 Provides a high-level snapshot of overall business performance.
 
 ### Key KPIs:
